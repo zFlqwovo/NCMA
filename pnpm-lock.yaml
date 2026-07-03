@@ -13,7 +13,7 @@ importers:
         version: 0.3.3
       axios:
         specifier: ^1.18.0
-        version: 1.18.0
+        version: 1.18.1
       crypto-js:
         specifier: ^4.2.0
         version: 4.2.0
@@ -485,8 +485,8 @@ packages:
     resolution: {integrity: sha512-wvUjBtSGN7+7SjNpq/9M2Tg350UZD3q62IFZLbRAR1bSMlCo1ZaeW+BJ+D090e4hIIZLBcTDWe4Mh4jvUDajzQ==}
     engines: {node: '>= 0.4'}
 
-  axios@1.18.0:
-    resolution: {integrity: sha512-E32NzpYKp++W7XRe52rHiXV2ehxmh3wbdgO7MHeFM+vqxLBYHzt0ElkiImtOBxtOmyp0yoC8C6uESVV84Y2/hw==}
+  axios@1.18.1:
+    resolution: {integrity: sha512-3nTvFlvpn9Zu/RkHUqtc7/+al4UpRW5az71ap5zccp6e8RAYEzhMTecX8Dz1wWDYrPpUoB1HAQEGEAEvUr7S9g==}
 
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
@@ -2771,7 +2771,7 @@ snapshots:
   '@neteasecloudmusicapienhanced/unblockmusic-utils@0.3.3':
     dependencies:
       '@unblockneteasemusic/server': 0.28.0
-      axios: 1.18.0
+      axios: 1.18.1
       dotenv: 17.4.2
       express: 4.22.2
       https: 1.0.0
@@ -3068,7 +3068,7 @@ snapshots:
     dependencies:
       possible-typed-array-names: 1.1.0
 
-  axios@1.18.0:
+  axios@1.18.1:
     dependencies:
       follow-redirects: 1.16.0
       form-data: 4.0.6
