@@ -115,7 +115,7 @@
     "pkg": "^5.8.1",
     "power-assert": "^1.6.1",
     "prettier": "^3.9.9",
-    "typescript": "^5.9.3"
+    "typescript": "^7.0.2"
   },
   "publishConfig": {
     "access": "public",
